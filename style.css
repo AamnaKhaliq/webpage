@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+
+h1{
+   text-align: center;
+   text-transform: uppercase;
+}
+.right{
+    float: right;
+}
+img.left{
+    float: left;
+}
+
+.animals{
+    border: 1px solid black; 
+    padding: 20px;
+    width: 50%; 
+    clear: both;
+    margin: 350px; 
+    background-color: rgb(191, 181, 181);
+}
+.types{
+    padding: 20px;
+    clear: both;
+    border: 1px solid;
+    height: 300px; 
+    background-color:rgb(198, 176, 198);
+}
+p{
+  padding: 30px 10px;
+  margin: 20px;
+  text-align: center;
+}
+h2{
+    text-align: center;
+    text-transform: uppercase;
+}
